@@ -1,2 +1,3 @@
-This is a test placeholder content.
-'This is the future site of so-and-so's soundscape narrative.'
+My Soundscape tells the story of a lovely hike gone wrong. It starts with a lovely walk through the woods, the birds are singing, there is a small stream, the weather is lovely. Soon however, the wind begins to strengthen, and it quickly begins to rain. You turn to run back to your parked car and fight your way through the winds and pouring rain, until finally you arive at the safe, dry refuge of your car and sigh in relief. 
+
+As of now, the soundscape is still missing several of the intended human eleminets and not all sounds mesh quite as intended.  
