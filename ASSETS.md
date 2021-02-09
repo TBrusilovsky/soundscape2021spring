@@ -15,3 +15,4 @@ Wind through trees: https://freesound.org/people/spoonbender/sounds/244940/. Thi
 Rain, moderate: https://freesound.org/people/InspectorJ/sounds/401275/. This work is licensed under the Attribution License. 
 Rain, Car Interior, A: https://freesound.org/people/InspectorJ/sounds/400402/. This work is licensed under the Attribution License. 
 Car door slam: https://freesound.org/people/theshaggyfreak/sounds/276271/. This work is licensed under the Attribution License. 
+Hiking on hard ground: https://freesound.org/people/Yoyodaman234/sounds/349078/. This work is licensed under the Creative Commons 0 License.
