@@ -1,3 +1,6 @@
-My Soundscape tells the story of a lovely hike gone wrong. It starts with a lovely walk through the woods, the birds are singing, there is a small stream, the weather is lovely. Soon however, the wind begins to strengthen, and it quickly begins to rain. You turn to run back to your parked car and fight your way through the winds and pouring rain, until finally you arive at the safe, dry refuge of your car and sigh in relief. 
+**Thomas Brusilovsky's Soundscape Narrative:**  
+*'An Unfortune Summer Hike'*  
+An Unfortunate Summer Hike tells the story of just that, a wonderful hike through the woods cut short by an afternoon thunderstorm. The listener follows the journy of the hapless hiker, first enjoying the wonderful weather, and then fleeing to his car to escape the rain.   
 
-As of now, the soundscape is still missing several of the intended human eleminets and not all sounds mesh quite as intended.  
+The final soundscape file can be found in the *MP3's* folder, named *An Unfortune Summeer Hike.mp3*.
+
